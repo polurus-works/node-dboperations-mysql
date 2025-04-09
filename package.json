@@ -1,0 +1,24 @@
+{
+  "name": "node-mysql-dboperations",
+  "version": "1.0.0",
+  "description": "Node MySQL DB Operations - CRUD (Create, Read, Update, Delete), Pagination, Error Handling",
+  "main": "DbOperations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "node",
+    "crud",
+    "node",
+    "db",
+    "pagination",
+    "operations crud"
+  ],
+  "author": "Subrahmanyam Poluru",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^3.14.0"
+  }
+}
